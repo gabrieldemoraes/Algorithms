@@ -51,6 +51,8 @@ int main()
     std::cout << sRightToLeft << std::endl;
     std::cout << sLeftToRight << std::endl;
 
+	std::cout << "O meu programa funcionou com sucesso!" << std::endl;
+
     return 0;
 }
 
